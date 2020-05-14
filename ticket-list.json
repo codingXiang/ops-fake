@@ -1,0 +1,63 @@
+{
+    "code": 20000,
+    "message": "Get ticket success.",
+    "data": {
+        "id": 1589444175144232,
+        "appId": "oee",
+        "typeId": 1589183781538643,
+        "items": [
+            {
+                "id": 1589444282215686,
+                "ticketId": 1589444175144232,
+                "cloud": "Aliyun",
+                "area": "test",
+                "steps": null,
+                "isAccept": false,
+                "isComplete": false,
+                "closeAt": null,
+                "description": ""
+            },
+            {
+                "id": 1589444292651789,
+                "ticketId": 1589444175144232,
+                "cloud": "Aliyun",
+                "area": "prod",
+                "steps": null,
+                "isAccept": false,
+                "isComplete": false,
+                "closeAt": null,
+                "description": ""
+            },
+            {
+                "id": 1589444297858254,
+                "ticketId": 1589444175144232,
+                "cloud": "Azure",
+                "area": "test",
+                "steps": null,
+                "isAccept": false,
+                "isComplete": false,
+                "closeAt": null,
+                "description": ""
+            },
+            {
+                "id": 1589444302691477,
+                "ticketId": 1589444175144232,
+                "cloud": "Azure",
+                "area": "prod",
+                "steps": null,
+                "isAccept": false,
+                "isComplete": false,
+                "closeAt": null,
+                "description": ""
+            }
+        ],
+        "options": null,
+        "personInCharge": "",
+        "isAccept": false,
+        "statusId": 1589195590400572,
+        "isComplete": false,
+        "createdAt": "2020-05-14T08:16:15Z",
+        "modifyAt": "2020-05-14T08:16:15Z",
+        "closeAt": null
+    }
+}
